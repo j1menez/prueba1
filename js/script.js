@@ -5,3 +5,7 @@ function bienvenida(){
 function ferrari(){
     alert("lo conseguiras cabron lo se estoy seguro q asi sera <3 <3 <3 amennnnnnnnn");
 }
+
+function ohyeah(){
+    alert("oh yeah como lo haces mi leon lo kas fresa del pedazo el niño fresa aish ")
+}
